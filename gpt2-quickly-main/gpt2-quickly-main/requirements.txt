@@ -1,0 +1,9 @@
+transformers==4.11.0
+tokenizers==0.9.4
+tensorflow==2.7.0
+keras==2.7.0
+
+tf-models-official
+tqdm
+click
+sentencepiece==0.1.91
